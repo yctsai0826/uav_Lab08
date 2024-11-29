@@ -1,0 +1,15 @@
+{"time":"2024-11-29T04:39:43.375771126Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T04:39:43.376996727Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/uav/yolov7-main/wandb/offline-run-20241129_043943-b21uy9xa/logs/debug-core.log"}
+{"time":"2024-11-29T04:39:43.488222085Z","level":"INFO","msg":"created new stream","id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:43.488914625Z","level":"INFO","msg":"stream: started","id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:43.488950597Z","level":"INFO","msg":"writer: Do: started","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:43.488974603Z","level":"INFO","msg":"handler: started","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:43.488998653Z","level":"INFO","msg":"sender: started","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:43.50749119Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T04:39:45.065703892Z","level":"INFO","msg":"stream: closing","id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:45.065880625Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T04:39:45.067137641Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T04:39:45.070100314Z","level":"INFO","msg":"handler: closed","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:45.070200016Z","level":"INFO","msg":"writer: Close: closed","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:45.070279108Z","level":"INFO","msg":"sender: closed","stream_id":"b21uy9xa"}
+{"time":"2024-11-29T04:39:45.072920883Z","level":"INFO","msg":"stream: closed","id":"b21uy9xa"}

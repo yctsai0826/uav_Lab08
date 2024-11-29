@@ -1,0 +1,59 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-11-29T04:53:00.307204Z",
+  "args": [
+    "--device",
+    "0",
+    "--batch-size",
+    "8",
+    "--data",
+    "data/data.yaml",
+    "--img",
+    "1280",
+    "720",
+    "--cfg",
+    "cfg/training/yolov7-tiny-lab8.yaml",
+    "--weights",
+    "yolov7-tiny.pt",
+    "--name",
+    "yolov7-lab08",
+    "--hyp",
+    "data/hyp.scratch.tiny.yaml",
+    "--epoch",
+    "20"
+  ],
+  "program": "/content/drive/MyDrive/uav/yolov7-main/train.py",
+  "codePath": "train.py",
+  "root": "/content/drive/MyDrive/uav/yolov7-main",
+  "host": "c180c5cccd57",
+  "username": "root",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "train.py",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "120942624768",
+      "used": "35488354304"
+    }
+  },
+  "memory": {
+    "total": "13609422848"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

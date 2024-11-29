@@ -1,0 +1,8 @@
+{"time":"2024-11-29T04:41:14.130322315Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T04:41:14.132219852Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/uav/yolov7-main/wandb/offline-run-20241129_044114-7ousgtel/logs/debug-core.log"}
+{"time":"2024-11-29T04:41:14.241040792Z","level":"INFO","msg":"created new stream","id":"7ousgtel"}
+{"time":"2024-11-29T04:41:14.241856658Z","level":"INFO","msg":"stream: started","id":"7ousgtel"}
+{"time":"2024-11-29T04:41:14.241887488Z","level":"INFO","msg":"writer: Do: started","stream_id":"7ousgtel"}
+{"time":"2024-11-29T04:41:14.241934548Z","level":"INFO","msg":"handler: started","stream_id":"7ousgtel"}
+{"time":"2024-11-29T04:41:14.24196317Z","level":"INFO","msg":"sender: started","stream_id":"7ousgtel"}
+{"time":"2024-11-29T04:41:14.269719265Z","level":"INFO","msg":"Starting system monitor"}
