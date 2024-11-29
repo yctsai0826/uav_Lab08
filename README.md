@@ -4,8 +4,8 @@
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/yctsai0826/uav_Lab08.git
+   cd uav_Lab08
    ```
 
 2. Install the required dependencies:
