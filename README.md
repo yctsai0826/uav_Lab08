@@ -16,6 +16,12 @@
 3. Train your model!!!
    ```bash
    python train.py --device 0 --batch-size 8 --data data/data.yaml --img 1280 720 --cfg cfg/training/yolov7-tiny-lab8.yaml --weights 'yolov7-tiny.pt' --name yolov7-lab08 --hyp data/hyp.scratch.tiny.yaml --epoch 300
+   ```
+
+4. Generate output video:
+   ```bash
+   python lab8.py
+   ```
 ---
 
 ## Command Arguments
